@@ -23,8 +23,11 @@
 ### Next steps
 
 * We will check in with each other on Thursday via GitHub issues. We plan to meet again on Tuesday, Feb 28th at 7 PM PST. Location TBD. Please message if you would like to be invited to this. 
+
 * Tasks to accomplish till then:
+
   * First two lectures from [Go: Getting Started](https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents)
+  
   * Finish upto the first Basics module in A Tour of Go, [Packages, variables, and functions](https://tour.golang.org/basics/17)
 
   
